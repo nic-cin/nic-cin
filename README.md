@@ -18,42 +18,77 @@ I軌襴暹 甯幗緲fi'　　 緲',纜　　贒i綟碕碚爺綴｡ ”'罨皴
 ```
 
 ```bash
-nicolas@github:~$ whoami
+nic@github:~$ whoami
 ```
 
 ```txt
 Computer Science Student
 UNIVALI — Universidade do Vale do Itajaí
 
+1st semester -> 2nd semester
+
 focus:
 - cybersecurity
-- pentesting
-- low level stuff
-- web security
+- offensive security
+- low level systems
 - reverse engineering
+- web exploitation
+- cloud infrastructure
 ```
 
 ---
 
 ```bash
-$ ls skills/
+$ ls knowledge/
 ```
 
-![Linux](https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![C++](https://img.shields.io/badge/c++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow)
-![NodeJS](https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
+![cplusplus](https://img.shields.io/badge/c++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
+![python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![linux](https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![nodejs](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
+![azure](https://img.shields.io/badge/azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![aws](https://img.shields.io/badge/aws-0d1117?style=for-the-badge&logo=amazonaws&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
+![supabase](https://img.shields.io/badge/supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ```bash
-$ cat currently_learning.txt
+$ cat interests.txt
 ```
 
 ```txt
-web exploitation
+web pentesting
 api security
-binary logic
+binary exploitation
 networking
 automation
+cloud
+virtualization
+systems programming
+```
+
+---
+
+```bash
+$ cat current_status.log
+```
+
+```txt
+learning c++
+building automation tools
+studying operating systems
+exploring offensive security
+```
+
+---
+
+```bash
+$ ./contact
+```
+
+```txt
+github  : github.com/nic-cin
+discord : @w1i
 ```
